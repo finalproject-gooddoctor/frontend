@@ -1,3 +1,42 @@
+
+# Project Title
+
+The Good Doctor
+
+Problem: Every person needs a doctor for their health checkup. In their busy lives, they often forget to make an appointment with the doctor and miss their regular health checkup. This app will help these people to make appointments for themselves even they are in rush. They can easily fill in details and choose an appointment near their locations.
+
+Action: I researched more about the problem and decided to create a single web app using react to increase the knowledge about the good doctors near me to make appointment with them.
+
+Result: After using this app, people now are aware of the near doctor thier, and they can take the right decision and know good doctors near them and then make a appointment with them 
+
+
+
+##A link to your Figma prototype
+
+https://www.figma.com/file/J4jiIUyCW1b19TKKLigDdKDT/Untitled?node-id=0%3A1
+
+
+### [Link to Surge](http://rural-quiver.surge.sh)
+
+# technologies used
+Node js
+NPM
+React
+API
+React Boostrap 
+
+# approach
+
+Started with the datbase (API/BACKEND) , and then React (FRONT END).
+
+# Installation instructions
+
+npm install
+npm start
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
