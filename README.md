@@ -16,7 +16,7 @@ Result: After using this app, people now are aware of the near doctor thier, and
 https://www.figma.com/file/J4jiIUyCW1b19TKKLigDdKDT/Untitled?node-id=0%3A1
 
 
-### [Link to Surge](http://rural-quiver.surge.sh)
+
 
 # technologies used
 Node js
